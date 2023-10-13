@@ -1,0 +1,1 @@
+![Cool Git Labels cover](/media/cover.png)
